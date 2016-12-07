@@ -1,0 +1,24 @@
+{
+  "name": "leonobro",
+  "version": "1.0.0",
+  "description": "Leonobro - the smart bot",
+  "main": "index.js",
+  "scripts": {
+    "run": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bojicas/leonobro.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bojicas/leonobro/issues"
+  },
+  "homepage": "https://github.com/bojicas/leonobro#readme",
+  "dependencies": {
+    "botbuilder": "^3.4.4",
+    "restify": "^4.3.0"
+  }
+}
